@@ -1,5 +1,5 @@
 Frontend Reactjs Test by Muhammad Luqmanul Hakim
-
+Open [https://test-frontend-beige.vercel.app](https://test-frontend-beige.vercel.app) to view deployment web.
 --
 
 This project was build with CRA
@@ -23,7 +23,3 @@ yarn start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the development server.
-
--- or --
-
-Open [https://test-frontend-beige.vercel.app](https://test-frontend-beige.vercel.app) to view deployment web.
