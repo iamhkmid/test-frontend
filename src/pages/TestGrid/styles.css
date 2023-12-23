@@ -1,0 +1,11 @@
+.title {
+  font-size: 35px;
+  font-weight: 600;
+  color: #272727;
+  margin: 0;
+  margin-bottom: 40px;
+}
+
+.grid-item {
+  border: 1px solid #838383;
+}
